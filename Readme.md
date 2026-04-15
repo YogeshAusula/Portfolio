@@ -4,7 +4,7 @@ Welcome to my personal portfolio website 🚀
 This portfolio showcases my skills, projects, and certifications.
 
 🔗 **Live Website:**  
-https://nomulavarunnetha.github.io/Portfolio/
+https://yogeshausula.github.io/Portfolio/
 
 ---
 
